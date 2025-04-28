@@ -24,16 +24,7 @@ This repository includes the Jupyter Notebook in which the data set was analyzed
 ### Questions
 
 #### 1. What is the average price for a four-bedroom house sold for each year?
-
-Average sale price per year for homes with 4 beds:
-+----+---------+
-|year|avg_price|
-+----+---------+
-|2022|296363.88|
-|2021|301819.44|
-|2020|298353.78|
-|2019| 300263.7|
-+----+---------+
+![alt-text](https://github.com/andrewjmack/Home_Sales/blob/main/png/1.png)
 
 #### 2. What is the average price of a home for each year the home was built, that has three bedrooms and three bathrooms?
 
